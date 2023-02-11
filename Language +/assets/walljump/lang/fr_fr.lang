@@ -1,0 +1,9 @@
+walljump.key.walljump=Saut mural / Accrochage au mur
+
+enchantment.walljump=Saut Mural !
+enchantment.doublejump=Double Saut 
+enchantment.speedboost=Boost de Vitesse
+
+enchantment.walljump.walljump.desc=Vous permet de sautez vers un mur, en maintenant la touche de saut mural enfoncée, puis vous effectuerez un autre saut mural.
+enchantment.walljump.doublejump.desc=Appuyez 2 fois sur la touche de saut pour effectuer un double saut !
+enchantment.walljump.speedboost.desc=Vous permet d'augmenter votre vitesse de déplacement.

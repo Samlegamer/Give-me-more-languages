@@ -1,0 +1,9 @@
+walljump.key.walljump=Wall Jump / Wall Cling
+
+enchantment.walljump=Wall-Jump!
+enchantment.doublejump=Double-Jump
+enchantment.speedboost=Speed-Boost
+
+enchantment.walljump.walljump.desc=Allows you to jump to a wall, by holding down the wall jump key, and then perform another wall jump.
+enchantment.walljump.doublejump.desc=Press the jump key twice to make a double jump!
+enchantment.walljump.speedboost.desc=Allows you to increase your speed of movement.

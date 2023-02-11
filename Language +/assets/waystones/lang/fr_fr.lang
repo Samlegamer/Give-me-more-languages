@@ -1,0 +1,42 @@
+tile.waystones:waystone.name=Waystone
+
+item.waystones:warp_scroll.name=Warp Scroll
+item.waystones:warp_scroll_bound.name=Warp Scroll (Bound)
+item.waystones:return_scroll.name=Return Scroll
+item.waystones:warp_stone.name=Warp Stone
+item.waystones:bound_scroll.name=Bound Scroll
+
+itemGroup.waystones=Waystones
+
+waystones:noDimensionWarp=Vous ne pouvez pas passer d'un monde à l'autre.
+waystones:waystoneBroken=La Waystone liée a été déplacée ou détruite
+waystones:returnImpossible=Vous n'avez pas encore activé de Waystones.
+waystones:scrollNotBound=This scroll is not bound to a waystone.
+waystones:stoneNotCharged=The Warp Stone is not fully charged yet.
+waystones:activatedWaystone=Waystone Activé: %s
+waystones:nameOccupied=Le nom %s est déjà utilisé.
+waystones:notTheOwner=Les Waystones ne peuvent être renommées que par celui qui les a placées.
+waystones:creativeRequired=Vous devez être en mode créatif pour modifier une Waystone globale.
+waystones:scrollBound=Scroll bound: %s
+
+gui.waystones:current_location=Localisation actuelle:
+gui.waystones:warpStone.selectDestination=Choisissez votre destination:
+gui.waystones:warpStone.nextPage=Suivant
+gui.waystones:warpStone.previousPage=Précédent
+gui.waystones:confirmReturn=Vous voulez vraiment retourner à cette Waystone ?
+gui.waystones:confirmReturn.boundTo=Lié à: %s
+gui.waystones:confirmReturn.noWaystoneActive=Aucune Waystone active.
+gui.waystones:editWaystone.enterName=Entrez le nom de la Waystone:
+gui.waystones:editWaystone.isGlobal=est Globale
+
+tooltip.waystones:cooldownLeft=Cooldown: %d seconds
+tooltip.waystones:boundTo=Lié à: %s
+tooltip.waystones:none=None
+tooltip.waystones:returnToWaystone=Retourner à la Waystone
+tooltip.waystones:openWaystoneMenu=Ouvrir le Menu Waystone
+tooltip.waystones:levelRequirement=Niveau Requis: %d
+
+stat.waystones:waystonesActivated=vous avez activé une Waystones
+
+waystones.general.globalinterdimension=Interdim. Teleport (Global Waystones)
+waystones.worldgen.customnames=Noms Customisé
