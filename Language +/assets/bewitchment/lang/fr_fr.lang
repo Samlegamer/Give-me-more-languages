@@ -1,0 +1,867 @@
+#BOOKS
+
+item.bewitchment.book_of_shadows.name=Livre des Ombres
+info.bewitchment.book_of_shadows.landing=La sorcellerie est un art ancien, la magie viens de la nature. Ce livre vous aidera à en découvrir les secrets par vous-même.
+
+item.bewitchment.codex_infernalis.name=Codex Infernalis
+info.bewitchment.codex_infernalis.landing=Le simple fait de tenir ce livre est une erreur... Oses-tu continuer ?
+
+
+#BLOCKS
+tile.bewitchment.blessed_stone.name=Pierre Bénite
+tooltip.bewitchment.blessed_stone=Donne une puissance d'autel infinie. Seulement créatif.
+
+
+
+tile.bewitchment.block_of_amethyst.name=Bloc d'Améthyste
+tile.bewitchment.block_of_garnet.name=Bloc de Grenat
+tile.bewitchment.block_of_opal.name=Bloc d'Opale
+tile.bewitchment.block_of_silver.name=Bloc d'Argent
+tile.bewitchment.block_of_cold_iron.name=Bloc de Fer Froid
+tile.bewitchment.block_of_salt.name=Bloc de Sel
+tile.bewitchment.dragons_blood_resin_block.name=Bloc de Résine de Sang de Dragon
+tile.bewitchment.amethyst_ore.name=Minerais d'Améthyste
+tile.bewitchment.garnet_ore.name=Minerais Grenat
+tile.bewitchment.opal_ore.name=Minerais d'Opale
+tile.bewitchment.silver_ore.name=Minerais d'Argent
+tile.bewitchment.salt_ore.name=Minerais de Sel
+
+tile.bewitchment.purifying_earth.name=Terre Purificatrice
+
+tile.bewitchment.coquina.name=Coquina
+tile.bewitchment.coquina_bricks.name=Briques de Coquina
+tile.bewitchment.chiseled_coquina.name=Coquina Ciselée
+
+tile.bewitchment.nethersteel.name=Nethersteel
+tile.bewitchment.nethersteel_fence.name=Barrière en Nethersteel
+
+tile.bewitchment.candelabra_gold.name=Chandelier en Or
+tile.bewitchment.candelabra_silver.name=Chandelier en Argent
+tile.bewitchment.candelabra_iron.name=Chandelier en Fer
+
+tile.bewitchment.perpetual_ice.name=Glace Éternelle
+tile.bewitchment.perpetual_ice_stairs.name=Escalier en Glace Éternelle
+tile.bewitchment.perpetual_ice_slab.name=Dalle en Glace Éternelle
+tile.bewitchment.perpetual_ice_fence.name=Barrière en Glace Éternelle
+
+tile.bewitchment.embittered_bricks.name=Briques Aigries
+tile.bewitchment.cracked_embittered_bricks.name=Briques Aigries Craquelée
+tile.bewitchment.chiseled_embittered_bricks.name=Briques Aigries Ciselée
+tile.bewitchment.embittered_brick_stairs.name=Escalier en Briques Aigries
+tile.bewitchment.embittered_bricks_slab.name=Dalle en Briques Aigries
+tile.bewitchment.embittered_brick_fence.name=Barrière en Briques Aigries
+
+tile.bewitchment.scorned_bricks.name=Briques Méprisante
+tile.bewitchment.cracked_scorned_bricks.name=Briques Méprisante Craquelée
+tile.bewitchment.chiseled_scorned_bricks.name=Briques Méprisante Ciselée
+tile.bewitchment.scorned_brick_stairs.name=Escalier en Briques Méprisante
+tile.bewitchment.scorned_bricks_slab.name=Dalle en Briques Méprisante
+tile.bewitchment.scorned_brick_fence.name=Barrière en Briques Méprisante
+
+tile.bewitchment.goblet.name=Gobelet
+tile.bewitchment.filled_goblet.name=Gobelet vide
+
+tile.bewitchment.white_candle.name=Bougie Blanche
+tile.bewitchment.orange_candle.name=Bougie Orange
+tile.bewitchment.magenta_candle.name=Bougie Magenta
+tile.bewitchment.light_blue_candle.name=Bougie Bleu Clair
+tile.bewitchment.yellow_candle.name=Bougie Jaune
+tile.bewitchment.lime_candle.name=Bougie Lime
+tile.bewitchment.pink_candle.name=Bougie Rose
+tile.bewitchment.gray_candle.name=Bougie Grise
+tile.bewitchment.light_gray_candle.name=Bougie Gris Clair
+tile.bewitchment.cyan_candle.name=Bougie Cyan
+tile.bewitchment.purple_candle.name=Bougie Violette
+tile.bewitchment.blue_candle.name=Bougie Bleu
+tile.bewitchment.brown_candle.name=Bougie Marron
+tile.bewitchment.green_candle.name=Bougie Verte
+tile.bewitchment.red_candle.name=Bougie Rouge
+tile.bewitchment.black_candle.name=Bougie Noir
+
+tile.bewitchment.white_lantern.name=Lanterne Blanche
+tile.bewitchment.orange_lantern.name=Lanterne Orange
+tile.bewitchment.magenta_lantern.name=Lanterne Magenta
+tile.bewitchment.light_blue_lantern.name=Lanterne Bleu Clair
+tile.bewitchment.yellow_lantern.name=Lanterne Jaune
+tile.bewitchment.lime_lantern.name=Lanterne Lime
+tile.bewitchment.pink_lantern.name=Lanterne Rose
+tile.bewitchment.gray_lantern.name=Lanterne Grise
+tile.bewitchment.light_gray_lantern.name=Lanterne Gris Clair
+tile.bewitchment.cyan_lantern.name=Lanterne Cyan
+tile.bewitchment.purple_lantern.name=Lanterne Violette
+tile.bewitchment.blue_lantern.name=Lanterne Bleu
+tile.bewitchment.brown_lantern.name=Lanterne Marron
+tile.bewitchment.green_lantern.name=Lanterne Verte
+tile.bewitchment.red_lantern.name=Lanterne Rouge
+tile.bewitchment.black_lantern.name=Lanterne Noir
+tooltip.lantern_lit=Allumée
+
+tile.bewitchment.embergrass.name=Herbe de Sureau
+tile.bewitchment.torchwood.name=Torchwood
+
+tile.bewitchment.cypress_sapling.name=Pousse de Cyprès
+tile.bewitchment.elder_sapling.name=Pousse de Sureau
+tile.bewitchment.juniper_sapling.name=Pousse de Genévrier
+tile.bewitchment.dragons_blood_sapling.name=Pousse de Sang de Dragon
+tile.bewitchment.cypress_wood.name=Bois de Cyprès
+tile.bewitchment.elder_wood.name=Bois de Sureau
+tile.bewitchment.juniper_wood.name=Bois de Genévrier
+tile.bewitchment.dragons_blood_wood.name=Bois de Sang de Dragon
+tile.bewitchment.cypress_planks.name=Planche de Cyprès
+tile.bewitchment.elder_planks.name=Planche de Sureau
+tile.bewitchment.juniper_planks.name=Planche de Genévrier
+tile.bewitchment.dragons_blood_planks.name=Planche de Sang de Dragon
+tile.bewitchment.cypress_leaves.name=Feuille de Cyprès
+tile.bewitchment.elder_leaves.name=Feuille de Sureau
+tile.bewitchment.juniper_leaves.name=Feuille de Genévrier
+tile.bewitchment.dragons_blood_leaves.name=Feuille de Sang de Dragon
+
+item.bewitchment.cypress_door.name=Porte en Cyprès
+item.bewitchment.elder_door.name=Porte en Sureau
+item.bewitchment.juniper_door.name=Porte en Genévrier
+item.bewitchment.dragons_blood_door.name=Porte en Sang de Dragon
+tile.bewitchment.dragons_blood_door.name=Porte en Sang de Dragon
+tile.bewitchment.juniper_chest.name=Coffre en Genévrier
+tile.bewitchment.dragons_blood_chest.name=Coffre en Sang de Dragon
+tile.bewitchment.cypress_wood_stairs.name=Escalier en bois de Cyprès
+tile.bewitchment.elder_wood_stairs.name=Escalier en bois de Sureau
+tile.bewitchment.juniper_wood_stairs.name=Escalier en bois de Genévrier
+tile.bewitchment.dragons_blood_stairs.name=Escalier en bois de Sang de Dragon
+tile.bewitchment.cypress_wood_slab.name=Dalle en bois de Cyprès
+tile.bewitchment.elder_wood_slab.name=Dalle en bois de Sureau
+tile.bewitchment.juniper_wood_slab.name=Dalle en bois de Genévrier
+tile.bewitchment.dragons_blood_slab.name=Dalle en bois de Sang de Dragon
+tile.bewitchment.cypress_trapdoor.name=Trappe en Cyprès
+tile.bewitchment.elder_trapdoor.name=Trappe en Sureau
+tile.bewitchment.juniper_trapdoor.name=Trappe en Genévrier
+tile.bewitchment.dragons_blood_trapdoor.name=Trappe en Sang de Dragon
+tile.bewitchment.cypress_fence_gate.name=Portillon en Cyprès
+tile.bewitchment.elder_fence_gate.name=Portillon en Sureau
+tile.bewitchment.juniper_fence_gate.name=Portillon en Genévrier
+tile.bewitchment.dragons_blood_fence_gate.name=Portillon en Sang de Dragon
+tile.bewitchment.cypress_fence.name=Barrière en Cyprès
+tile.bewitchment.elder_fence.name=Barrière en Sureau
+tile.bewitchment.juniper_fence.name=Barrière en Genévrier
+tile.bewitchment.dragons_blood_fence.name=Barrière en Sang de Dragon
+tile.bewitchment.cypress_pressure_plate.name=Plaque de Pression en Cyprès
+tile.bewitchment.elder_pressure_plate.name=Plaque de Pression en Sureau
+tile.bewitchment.juniper_pressure_plate.name=Plaque de Pression en Genévrier
+tile.bewitchment.dragons_blood_pressure_plate.name=Plaque de Pression en Sang de Dragon
+tile.bewitchment.cypress_button.name=Boutton en Cyprès
+tile.bewitchment.elder_button.name=Boutton en Sureau
+tile.bewitchment.juniper_button.name=Boutton en Genévrier
+tile.bewitchment.dragons_blood_button.name=Boutton en Sang de Dragon
+
+item.bewitchment.cypressseed.name=Graine de Cyprès
+item.bewitchment.dragonsbloodseed.name=Graine de Sang de Dragon
+
+tile.bewitchment.poppet_shelf_oak.name=Étagère de Poupée en Chêne
+tile.bewitchment.poppet_shelf_spruce.name=Étagère de Poupée en Sapin
+tile.bewitchment.poppet_shelf_jungle.name=Étagère de Poupée en Acajou
+tile.bewitchment.poppet_shelf_birch.name=Étagère de Poupée en Bouleau
+tile.bewitchment.poppet_shelf_acacia.name=Étagère de Poupée en Acacia
+tile.bewitchment.poppet_shelf_dark_oak.name=Étagère de Poupée en Chêne Noir
+tile.bewitchment.poppet_shelf_juniper.name=Étagère de Poupée en Genévrier
+tile.bewitchment.poppet_shelf_cypress.name=Étagère de Poupée en Cyprès
+tile.bewitchment.poppet_shelf_elder.name=Étagère de Poupée en Genévrier
+tile.bewitchment.poppet_shelf_dragons_blood.name=Étagère de Poupée en Sang de Dragon
+
+tile.bewitchment.stone_witches_altar.name=Autel des Sorcières en Pierre
+tile.bewitchment.nether_brick_witches_altar.name=Autel des Sorcières en Briques du Nether
+tile.bewitchment.obsidian_witches_altar.name=Autel des Sorcières en Obsidienne
+tile.bewitchment.coquina_witches_altar.name=Autel des Sorcières en Coquina
+tile.bewitchment.embittered_brick_witches_altar.name=Autel des Sorcières en Brique Amère
+tile.bewitchment.scorned_brick_witches_altar.name=Autel des Sorcières en Brique Méprisante
+tile.bewitchment.witches_cauldron.name=Chaudron des Sorcières
+tile.bewitchment.witches_oven.name=Four des Sorcières
+tile.bewitchment.distillery.name=Distillerie
+tile.bewitchment.spinning_wheel.name=Rouet
+tile.bewitchment.crystal_ball.name=Boule de Cristal
+tile.bewitchment.tarot_table.name=Tableau de Tarot
+item.bewitchment.tarot_cards.name=Cartes de Tarot
+tooltip.bewitchment.tarot_cards=Ils sont réceptifs au %s's futur
+tile.bewitchment.frostfire.name=Feu Givrant
+tile.bewitchment.hellfire.name=Feu de l'Enfer
+tile.bewitchment.brazier.name=Brasero
+tile.bewitchment.sigil_table.name=Tableau des Sceaux
+tile.bewitchment.sigil.name=Sceau placé
+
+tile.bewitchment.scorned_brick_wall.name=Mur en Brique Méprisante
+tile.bewitchment.crying_scorned_brick_wall.name=Mur en Brique Méprisante Déformée
+tile.bewitchment.mossy_scorned_brick_wall.name=Mur en Brique Méprisante Moussue
+tile.bewitchment.despair_brick_wall.name=Mur en Brique du Désespoir
+tile.bewitchment.ochre_despair_brick_wall.name=Mur en Brique Ocre du Désespoir
+tile.bewitchment.coquina_wall.name=Mur en Coquina
+tile.bewitchment.embittered_brick_wall.name=Mur en Brique Aigrie
+tile.bewitchment.nethersteel_wall.name=Mur en Nethersteel
+
+tile.bewitchment.mossy_scorned_brick_fence.name=Barrière en Brique Méprisante Moussue
+tile.bewitchment.crying_scorned_brick_fence.name=Barrière en Brique Méprisante Déformée
+tile.bewitchment.despair_brick_fence.name=Barrière en Brique du Désespoir
+tile.bewitchment.ochre_despair_brick_fence.name=Barrière en Brique Ocre du Désespoir
+tile.bewitchment.coquina_fence.name=Barrière en Coquina
+
+tile.bewitchment.despair_bricks.name=Briques du Désespoir
+tile.bewitchment.ochre_despair_bricks.name=Briques Ocre Désespoir
+tile.bewitchment.crying_scorned_bricks.name=Briques Méprisante Déformées
+
+tile.bewitchment.despair_brick_stairs.name=Escalier en Briques du Désespoir
+tile.bewitchment.ochre_despair_brick_stairs.name=Escalier en Briques Ocre du Désespoir
+tile.bewitchment.crying_scorned_brick_stairs.name=Escalier en Briques Méprisante Déformées
+
+tile.bewitchment.crying_scorned_brick_slab.name=Dalle en Briques Méprisante Déformées
+tile.bewitchment.ochre_despair_brick_slab.name=Dalle en Briques Ocre du Désespoir
+tile.bewitchment.despair_brick_slab.name=Dalle en Briques du Désespoir
+
+item.bewitchment.cold_iron_helmet.name=Casque en Fer Froid
+item.bewitchment.cold_iron_chestplate.name=Plastron en Fer Froid
+item.bewitchment.cold_iron_leggings.name=Jambière en Fer Froid
+item.bewitchment.cold_iron_boots.name=Bottes en Fer Froid
+
+item.bewitchment.witches_cowl.name=Capuche de Sorcière
+item.bewitchment.witches_hat.name=Chapeau de Sorcière
+item.bewitchment.witches_robes.name=Robe de Sorcière
+item.bewitchment.witches_pants.name=Pantalon de Sorcière
+item.bewitchment.alchemist_hood.name=Capuche d'Alchimiste
+item.bewitchment.alchemist_hat.name=Chapeau d'Alchimiste
+item.bewitchment.alchemist_robes.name=Robe d'Alchimiste
+item.bewitchment.alchemist_pants.name=Pantalon d'Alchimiste
+item.bewitchment.green_witch_hood.name=Capuche Verte de Sorcière
+item.bewitchment.green_witch_hat.name=Chapeau vert de Sorcière
+item.bewitchment.green_witch_robes.name=Robe verte de Sorcière
+item.bewitchment.green_witch_pants.name=Pantalon vert de Sorcière
+item.bewitchment.besmirched_hood.name=Capuche Entaché
+item.bewitchment.besmirched_hat.name=Chapeau Entaché
+item.bewitchment.besmirched_robes.name=Robe Entaché
+item.bewitchment.besmirched_pants.name=Pantalon Entaché
+
+item.bewitchment.silver_arrow.name=Fléche en Argent
+item.bewitchment.cold_iron_arrow.name=Fléche en Fer Froid
+
+item.bewitchment.cold_iron_sword.name=Épée en Fer Froid
+item.bewitchment.cold_iron_pickaxe.name=Pioche en Fer Froid
+item.bewitchment.cold_iron_axe.name=Hache en Fer Froid
+item.bewitchment.cold_iron_shovel.name=Pelle en Fer Froid
+item.bewitchment.cold_iron_hoe.name=Houe en Fer Froid
+
+item.bewitchment.cleaver_sword.name=Lame de Couperet
+
+item.bewitchment.garlic_grilled.name=Ail Grillé
+item.bewitchment.elderberry_jelly.name=Gelée de Sureau
+item.bewitchment.juniper_tea.name=Thé de Genièvre
+item.bewitchment.garlic_bread.name=Pain à l'Ail
+
+tooltip.bewitchment.silver_tool_description.name=Inflige des dégâts supplémentaires aux morts-vivants
+
+tooltip.bewitchment.cold_iron_armor_description.name=Protège contre les démons et les esprits
+tooltip.bewitchment.cold_iron_tool_description.name=Inflige des dégâts supplémentaires aux esprits
+
+tooltip.bewitchment.cold_iron_arrow=Inflige des dégâts supplémentaires aux esprits
+tooltip.bewitchment.silver_arrow=Inflige des dégâts supplémentaires aux morts-vivants
+
+
+item.bewitchment.athame.name=Athamé
+tooltip.bewitchment.athame=Cette dague cérémoniale vous permet également d'obtenir un butin spécial auprès des monstres.
+item.bewitchment.boline.name=Boline
+
+item.bewitchment.broom.name=Balai
+item.bewitchment.cypress_broom.name=Balai en Cyprès
+item.bewitchment.elder_broom.name=Balai en Sureau
+item.bewitchment.juniper_broom.name=Balai en Genévrier
+item.bewitchment.dragons_blood_broom.name=Balai en Sang de Dragon
+
+item.bewitchment.waystone.name=Waystone
+tooltip.bewitchment.waystone=Lié à %d %d %d (%s)
+tooltip.bewitchment.waystone.unbound=Pas liée
+
+item.bewitchment.focal_chalk.name=Craie Focale
+item.bewitchment.ritual_chalk.name=Craie Rituelle
+item.bewitchment.fiery_chalk.name=Craie Ardente
+item.bewitchment.phasing_chalk.name=Craie de Phasage
+
+item.bewitchment.girdle_of_the_dryads.name=Ceinturon des Dryades
+tooltip.bewitchment.girdle_of_the_dryads=Cette ceinture protège le porteur des dommages en faisant pousser des morceaux d'écorce comme armure.
+item.bewitchment.hellish_bauble.name=Boule Infernale
+tooltip.bewitchment.hellish_bauble=Ce bijou impose le respect des démons et offre une certaine résistance innée au feu et aux explosions.
+item.bewitchment.horseshoe.name=Fer à cheval
+tooltip.bewitchment.horseshoe=Les fers à cheval semblent être des babioles plutôt porte-bonheur en général. Les esprits vous semblent hostiles.
+item.bewitchment.nazar.name=Nazar
+tooltip.bewitchment.nazar=Une amulette qui éloigne la malchance et offre une certaine immunité contre les attaques magiques.
+item.bewitchment.token_of_remedies.name=Jeton de Recours
+tooltip.bewitchment.token_of_remedies=La gemme en son coeur semble absorber les maladies.
+item.bewitchment.fortunes_favor.name=Faveur de la Fortune
+tooltip.bewitchment.fortunes_favor=Une paire de gants enchantés qui augmentent la vitesse d'extraction et donnent plus de gouttes de minerais.
+item.bewitchment.hecates_visage.name=Visage d'Hécate
+tooltip.bewitchment.hecates_visage=Réduit le coût de démarrage d'un rituel.
+item.bewitchment.triskelion.name=Amulette de Triskel
+tooltip.bewitchment.triskelion=Donne de la force au prix d'un certain pouvoir magique.
+item.bewitchment.vampiric_amulet.name=Amulette Vampirique
+tooltip.bewitchment.vampiric_amulet=Une chance d'annuler certains dégâts et de guérir au prix d'un certain pouvoir magique.
+
+item.bewitchment.gluttons_sash.name=Ceinture Gluttons
+tooltip.bewitchment.gluttons_sash=Vous nourrit au prix de MP
+
+item.bewitchment.bastards_grimoire.name=Grimoire Bâtardus
+item.bewitchment.grimoire_magia.name=Grimoire de Magie
+tooltip.bewitchment.grimoire_magia=Magie Stockée: %d / %d
+
+item.bewitchment.juniper_key.name=Clé de Genévrier
+tooltip.bewitchment.juniper_key=Donne accès à %d, %d, %d, %s
+
+item.bewitchment.juniper_key_ring.name=Porte-clés Genévrier
+tooltip.bewitchment.juniper_key_ring.header=Donne accès à:
+tooltip.bewitchment.juniper_key_ring=-> %d, %d, %d, %s
+
+tile.bewitchment.stone_leonard_statue.name=Statue de Léonard en Pierre
+tile.bewitchment.nether_brick_leonard_statue.name=Statue de Léonard en Brique du Nether
+tile.bewitchment.scorned_brick_leonard_statue.name=Statue de Léonard en Brique Méprisante
+tile.bewitchment.gold_leonard_statue.name=Statue de Léonard en Or
+
+tile.bewitchment.stone_baphomet_statue.name=Statue de Baphomet en Pierre
+tile.bewitchment.nether_brick_baphomet_statue.name=Statue de Baphomet en Brique du Nether
+tile.bewitchment.scorned_brick_baphomet_statue.name=Statue de Baphomet en Brique Méprisante
+tile.bewitchment.gold_baphomet_statue.name=Statue de Baphomet en Or
+
+tile.bewitchment.stone_herne_statue.name=Statue de Herne en Pierre
+tile.bewitchment.nether_brick_herne_statue.name=Statue de Herne en Brique du Nether
+tile.bewitchment.scorned_brick_herne_statue.name=Statue de Herne en Brique Méprisante
+tile.bewitchment.gold_herne_statue.name=Statue de Herne en Or
+
+tile.bewitchment.stone_lilith_statue.name=Statue de Lilith en Pierre
+tile.bewitchment.nether_brick_lilith_statue.name=Statue de Lilith en Brique du Nether
+tile.bewitchment.scorned_brick_lilith_statue.name=Statue de Lilith en Brique Méprisante
+tile.bewitchment.gold_lilith_statue.name=Statue de Lilith en Or
+
+tile.bewitchment.stone_moloch_statue.name=Statue de Moloch en Pierre
+tile.bewitchment.nether_brick_moloch_statue.name=Statue de Moloch en Brique du Nether
+tile.bewitchment.scorned_brick_moloch_statue.name=Statue de Moloch en Brique Méprisante
+tile.bewitchment.gold_moloch_statue.name=Statue de Moloch en Or
+
+tile.bewitchment.stone_leonard_idol.name=Idole de Léonard en Pierre
+tile.bewitchment.nether_brick_leonard_idol.name=Idole de Léonard en Brique du Nether
+tile.bewitchment.scorned_brick_leonard_idol.name=Idole de Léonard en Brique Méprisante
+tile.bewitchment.gold_leonard_idol.name=Idole de Léonard en Or
+
+tile.bewitchment.stone_herne_idol.name=Idole d'Herne en Pierre
+tile.bewitchment.nether_brick_herne_idol.name=Idole d'Herne en Brique du Nether
+tile.bewitchment.scorned_brick_herne_idol.name=Idole d'Herne en Brique Méprisante
+tile.bewitchment.gold_herne_idol.name=Idole d'Herne en Or
+
+tile.bewitchment.stone_lilith_idol.name=Idole de Lilith en Pierre
+tile.bewitchment.nether_brick_lilith_idol.name=Idole de Lilith en Brique du Nether
+tile.bewitchment.scorned_brick_lilith_idol.name=Idole de Lilith en Brique Méprisante
+tile.bewitchment.gold_lilith_idol.name=Idole de Lilith en Or
+
+tile.bewitchment.stone_baphomet_idol.name=Idole de Baphomet en Pierre
+tile.bewitchment.nether_brick_baphomet_idol.name=Idole de Baphomet en Brique du Nether
+tile.bewitchment.scorned_brick_baphomet_idol.name=Idole de Baphomet en Brique Méprisante
+tile.bewitchment.gold_baphomet_idol.name=Idole de Baphomet en Or
+
+tile.bewitchment.gold_moloch_idol.name=Idole de Moloch en Or
+tile.bewitchment.scorned_brick_moloch_idol.name=Idole de Moloch en Brique Méprisante
+tile.bewitchment.nether_brick_moloch_idol.name=Idole de Moloch en Brique du Nether
+tile.bewitchment.stone_moloch_idol.name=Idole de Moloch en Pierre
+
+tile.bewitchment.goddess_statue.name=Statue de Déesse
+tooltip.bewitchment.goddess_statue=Enlève toutes les malédictions sur un joueur
+
+
+
+item.bewitchment.bottled_frostfire.name=Feu de givre en Bouteille
+item.bewitchment.bottled_hellfire.name=Feu de l'Enfer en bouteille
+item.bewitchment.bone_needle.name=Aiguille d'Os
+item.bewitchment.taglock.name=Taglock
+tooltip.bewitchment.taglock=Contient une étiquette de %s
+
+item.bewitchment.contract.name=Contrat du Démon
+
+tooltip.bewitchment.berserker_entities=%d/%d Villageois/Joueurs tués
+tooltip.bewitchment.devouring_rage_entities=%d/%d Bétail tué
+
+tooltip.bewitchment.contract_bound=Lié à %s
+tooltip.bewitchment.contract_items=%d/%d %s Obtenue
+
+bewitchment.berserker=Pacte: Berserker
+bewitchment.desiccation=Pacte: Desiccation
+bewitchment.devouring_rage=Pacte: Rage Dévorante
+bewitchment.everflame=Malédiction: Flamme Éternelle
+bewitchment.ignition=Pacte: Allumage
+bewitchment.salamandrine_tolerance=Pacte: Tolérance à la Salamandre
+bewitchment.mahapadma=Requête: Mahapadma
+
+item.bewitchment.amethyst.name=Améthyste
+item.bewitchment.garnet.name=Grenat
+item.bewitchment.opal.name=Opale
+item.bewitchment.silver_ingot.name=Lingot d'Argent
+item.bewitchment.cold_iron_ingot.name=Lingot de Fer Froid
+item.bewitchment.silver_nugget.name=Pépite d'Argent
+item.bewitchment.cold_iron_nugget.name=Pépite de Fer Froid
+item.bewitchment.salt.name=Sel
+
+item.bewitchment.stew_of_the_grotesque.name=Ragoût du Grotesque
+
+item.bewitchment.unfired_jar.name=Pot non Cuit
+item.bewitchment.empty_jar.name=Bocal vide
+item.bewitchment.oak_spirit.name=Esprit Chêne
+item.bewitchment.spruce_heart.name=Coeur de Sapin
+item.bewitchment.birch_soul.name=Âme de Bouleau
+item.bewitchment.cloudy_oil.name=Huile Trouble
+item.bewitchment.acacia_resin.name=Résine d'Acacia
+item.bewitchment.ebb_of_death.name=Le Reflux de la Mort
+item.bewitchment.droplet_of_wisdom.name=Goutte de Sagesse
+item.bewitchment.liquid_witchcraft.name=Liquide de Sorcellerie
+item.bewitchment.essence_of_vitality.name=Essence de Vitalité
+
+item.bewitchment.cleansing_balm.name=Baume Nettoyant
+item.bewitchment.demonic_elixir.name=Élixir Démoniaque
+item.bewitchment.fiery_unguent.name=Onguent Ardent
+item.bewitchment.swirl_of_depths.name=Tourbillon des Profondeurs
+item.bewitchment.oil_of_vitriol.name=Huile de Vitriol
+item.bewitchment.otherworldly_tears.name=Larmes des autre Mondes
+item.bewitchment.heaven_extract.name=Poudre du Paradis
+item.bewitchment.stone_ichor.name=Ichor de Pierre
+
+item.bewitchment.diabolical_vein.name=Veine Diabolique
+item.bewitchment.pure_filament.name=Filament Pur
+item.bewitchment.witches_stitching.name=Couture de Sorcière
+item.bewitchment.sanguine_cloth.name=Tissu Sanguin
+item.bewitchment.spirit_string.name=Corde de l'Esprit
+item.bewitchment.golden_thread.name=Fil Doré
+
+tile.bewitchment.mossy_scorned_bricks.name=Briques Méprisante Moussue
+tile.bewitchment.mossy_scorned_brick_slab.name=Dalle en Brique Méprisante Moussue
+tile.bewitchment.mossy_scorned_brick_stairs.name=Escalier en Brique Méprisante Moussue
+
+tile.bewitchment.coquina_slab.name=Dalle en Coquina
+tile.bewitchment.coquina_stairs.name=Escalier en Coquina
+
+tile.bewitchment.nethersteel_slab.name=Dalle en Nethersteel
+tile.bewitchment.nethersteel_stairs.name=Escalier en Nethersteel
+
+tile.bewitchment.greenwitch_fleece.name=Toison de hérisson
+tile.bewitchment.besmirched_fleece.name=Toison souillé
+tile.bewitchment.alchemists_fleece.name=Toison d'alchimiste
+
+tile.bewitchment.hedgewitches_carpet.name=Tapis d'Hedgewitch
+tile.bewitchment.besmirched_carpet.name=Tapis souillé
+tile.bewitchment.alchemists_carpet.name=Tapis d'Alchimiste
+
+item.bewitchment.aconitum.name=Aconit
+
+tooltip.bewitchment.aconitum=Une fleur vénéneuse utilisée pour chasser les Lycanthropes.
+item.bewitchment.belladonna.name=Belladonna
+tooltip.bewitchment.belladonna=Plante hautement toxique, c'est un composant essentiel de la pommade de vol.
+item.bewitchment.garlic.name=Ail
+tooltip.bewitchment.garlic=Une épice commune qui tient les morts-vivants à distance.
+item.bewitchment.hellebore.name=Hellébore
+tooltip.bewitchment.hellebore=Une fleur belle et vénéneuse liée aux démons
+item.bewitchment.mandrake_root.name=Racine de Mandragore
+tooltip.bewitchment.mandrake_root=Utilisé pour amplifier les effets magiques
+item.bewitchment.white_sage.name=Sauge Blanche
+tooltip.bewitchment.white_sage=Utilisé comme aide dans les exorcismes
+item.bewitchment.wormwood.name=Absinthe
+tooltip.bewitchment.wormwood=Une herbe incroyablement nuisible
+tile.bewitchment.spanish_moss.name=Mousse Espagnole
+tile.bewitchment.spanish_moss_end.name=Mousse Espagnole
+
+tile.bewitchment.flower_siphoning_allium.name=Allium?
+tile.bewitchment.flower_siphoning_azure_bluet.name=Azure Bluet?
+tile.bewitchment.flower_siphoning_blue_orchid.name=Orchidée Bleue?
+tile.bewitchment.flower_siphoning_dandelion.name=Pissenlit?
+tile.bewitchment.flower_siphoning_oxeye_daisy.name=Pâquerette aux Yeux d'Or?
+tile.bewitchment.flower_siphoning_poppy.name=Coquelicot?
+tile.bewitchment.flower_siphoning_tulip_orange.name=Tulipe Orange?
+tile.bewitchment.flower_siphoning_tulip_red.name=Tulipe Rouge?
+tile.bewitchment.flower_siphoning_tulip_pink.name=Tulipe Rose?
+tile.bewitchment.flower_siphoning_tulip_white.name=Tulipe Blanche?
+
+tooltip.bewitchment.siphoning_flower=Cette fleur n'a pas l'air d'aller bien... elle semble vous mordre...
+
+tile.bewitchment.blue_ink_cap.name=Capuchon d'Encre Bleu
+tile.bewitchment.frostflower.name=Fleur de Givre
+
+item.bewitchment.aconitum_seeds.name=Graines d'Aconitum
+tooltip.bewitchment.aconitum_seeds=Graine d'une plante toxique
+item.bewitchment.belladonna_seeds.name=Graines de Belladonna
+tooltip.bewitchment.belladonna_seeds=Graine d'une plante herbacée
+item.bewitchment.garlic_seeds.name=Graines d'Ail
+tooltip.bewitchment.garlic_seeds=Graine d'un allium malodorant
+item.bewitchment.hellebore_seeds.name=Graines d'Hellébore
+tooltip.bewitchment.hellebore_seeds=Graine d'une plante d'apparence innocente
+item.bewitchment.mandrake_seeds.name=Graines de Mandragore
+tooltip.bewitchment.mandrake_seeds=Graine d'une plante à la racine étrange
+item.bewitchment.white_sage_seeds.name=Graines de Sauge Blanche
+tooltip.bewitchment.white_sage_seeds=Graine d'un arbuste vivace à feuilles persistantes
+item.bewitchment.wormwood_seeds.name=Graines d'Absinthe
+tooltip.bewitchment.wormwood_seeds=Graine d'une Herbe Adventice
+
+item.bewitchment.elderberries.name=Baies de Sureau
+item.bewitchment.juniper_berries.name=Baies de Genévrier
+item.bewitchment.dragons_blood_resin.name=Résine de Sang de Dragon
+
+item.bewitchment.lizard_leg.name=Patte de Lézard
+item.bewitchment.eye_of_newt.name=Oeil de Newt
+item.bewitchment.owlets_wing.name=Aile de Chouette
+item.bewitchment.ravens_feather.name=Plume de Corbeau
+item.bewitchment.adders_fork.name=Fourchette de la Vipère
+item.bewitchment.toe_of_frog.name=Orteil de Grenouille
+item.bewitchment.hellhound_horn.name=Corne Démoniaque
+item.bewitchment.heart.name=Coeur
+item.bewitchment.demon_heart.name=Coeur de Démon
+item.bewitchment.snake_venom.name=Venin de Serpent
+item.bewitchment.bottle_of_blood.name=Bouteille de Sang
+item.bewitchment.bottle_of_vampire_blood.name=Bouteille de Sang de Vampire
+
+item.bewitchment.caduceus.name=Caducée
+item.bewitchment.leonards_wand.name=Baguette de Léonard
+tooltip.leonards_wand.uses=%d utilisations restantes
+item.bewitchment.thyrsus.name=Thyrsus
+
+item.bewitchment.hoof.name=Sabot
+item.bewitchment.eye_of_old.name=Oeil de l'Ancien
+item.bewitchment.tongue_of_dog.name=Langue de Loup
+
+item.bewitchment.catechu_brown.name=Catechu Marron
+item.bewitchment.dimensional_sand.name=Sable Dimensionnel
+item.bewitchment.ectoplasm.name=Ectoplasme
+item.bewitchment.flying_ointment.name=Pommade Volante
+item.bewitchment.iron_gall_ink.name=Encre en Fer Galleuse
+item.bewitchment.oak_apple_gall.name=Pomme de Chêne Galleuse
+item.bewitchment.pentacle.name=Pentacle
+item.bewitchment.spectral_dust.name=Poussière Spectrale
+item.bewitchment.tallow.name=Suif
+item.bewitchment.wood_ash.name=Bois de Cendre
+
+item.bewitchment.box_of_sealed_evil.name=Boîte du Mal Scellée
+tooltip.bewitchment.box_of_sealed_evil=Mécanisme de Surprise~
+
+item.bewitchment.poppet.name=Poupée
+item.bewitchment.poppet_armor.name=Armure de Poupée
+item.bewitchment.poppet_binding.name=Poupée de Liaison
+item.bewitchment.poppet_clumsy.name=Poupée de la Maladresse
+item.bewitchment.poppet_deathprotection.name=Poupée de Protection Contre la Mort
+item.bewitchment.poppet_earthprotection.name=Poupée de Protection de la Terre
+item.bewitchment.poppet_flameprotection.name=Poupée de Protection Contre les Flammes
+item.bewitchment.poppet_hungerprotection.name=Poupée de Protection Contre la Faim
+item.bewitchment.poppet_judgement.name=Poupée du Jugement
+item.bewitchment.poppet_spiritbane.name=Poupée de Spirit's Bane
+item.bewitchment.poppet_tool.name=Poupée d'Outil 
+item.bewitchment.poppet_vampiric.name=Poupée Vampirique
+item.bewitchment.poppet_voodoo.name=Poupée Vaudou
+item.bewitchment.poppet_voodooprotection.name=Poupée de Protection Vaudou
+item.bewitchment.poppet_wasting.name=Poupée de Déperdition
+item.bewitchment.poppet_waterprotection.name=Poupée de Protection Contre l'Eau
+tooltip.bewitchment.poppet.bound=Lié à %s
+
+poppet.not_found=La cible de cette poupée est introuvable.
+poppet.protect=La cible a été protégée de ta magie vaudou !
+
+item.bewitchment.sigil_mending.name=Sigil de Raccommodage
+item.bewitchment.sigil_ruin.name=Sigil de Ruin
+item.bewitchment.sigil_binding.name=Sigil de Reliure
+item.bewitchment.sigil_cleansing.name=Sigil de Purification
+item.bewitchment.sigil_failure.name=Sigil de l'échec
+item.bewitchment.sigil_purity.name=Sigil de Pureté
+item.bewitchment.sigil_luck.name=Sigil de la Chance
+item.bewitchment.sigil_battle.name=Sigil de Combat
+item.bewitchment.sigil_disorientation.name=Sigil de Désorientation
+item.bewitchment.sigil_shrieking.name=Sigil des Cris
+item.bewitchment.sigil_sentinel.name=Sigil de Sentinelle
+
+item.bewitchment.cold_iron_plate.name=Plaque de Fer Froid
+item.bewitchment.silver_plate.name=Plaque d'Argent
+
+
+item.bewitchment.skeleton_key.name=Clé Squelette
+tooltip.bewitchment.skeleton_key=Ouvre les Serrures du Genévrier
+
+#ENTITY
+entity.bewitchment.cypress_broom.name=Balai en Bois de Cyprès
+entity.bewitchment.elder_broom.name=Balai en Bois de Sureau
+entity.bewitchment.juniper_broom.name=Balai en Bois de Genévrier
+entity.bewitchment.dragons_blood_broom.name=Balai en Bois de Sang de Dragon
+
+entity.bewitchment.lizard.name=Lézard
+entity.bewitchment.owl.name=Hibou
+entity.bewitchment.raven.name=Corbeau
+entity.bewitchment.snake.name=Serpent
+entity.bewitchment.toad.name=Crapaud
+
+entity.bewitchment.black_dog.name=Loup Sombre
+entity.bewitchment.ghost.name=Fantôme
+
+entity.bewitchment.hellhound.name=Loup du Nether
+entity.bewitchment.feuerwurm.name=Serpent du Nether
+
+entity.bewitchment.werewolf.name=Loup-Garou
+
+entity.bewitchment.demon.name=Démon
+entity.bewitchment.demoness.name=Démonesse
+entity.bewitchment.imp.name=Lutin
+entity.bewitchment.druden.name=Druide
+entity.bewitchment.shadow_person.name=Personne de l'Ombre
+entity.bewitchment.cleaver.name=Couperet
+entity.bewitchment.cambion.name=Cambion
+entity.bewitchment.bafometyr.name=Bafometyr
+
+entity.bewitchment.baphomet.name=Baphomet
+entity.bewitchment.leonard.name=Léonard
+
+entity.Villager.bewitchment.alchemist=Alchimiste
+entity.Villager.bewitchment.witch=Sorcière des Haies
+
+#ENCHANTMENT
+enchantment.bewitchment.magic_protection=Protection Magique
+enchantment.bewitchment.magic_protection.desc=Réduit les dégâts de magie.
+
+#POTION
+potion.effect.empty=Infusion de Sorcières
+splash_potion.effect.empty=Potion Jetable d'Infusion de Sorcières
+lingering_potion.effect.empty=Potion Persistante d'Infusion de Sorcières
+tipped_arrow.effect.empty=Flèche Infusée de Bière
+
+bewitchment.modifier.suppressed_particles=Particules Supprimées
+
+bewitchment.wednesday=Mercredi
+bewitchment.absence=Absence
+bewitchment.purification=Purification
+bewitchment.corruption=Corruption
+bewitchment.magic_resistance=Résistance Magique
+bewitchment.magic_weakness=Faiblesse Magique
+bewitchment.hellworld=Hellworld
+bewitchment.iceworld=Iceworld
+bewitchment.rubedo=Rubedo
+bewitchment.citrinitas=Citrinitas
+bewitchment.desertification=Désertification
+bewitchment.fertility=Fertilité
+bewitchment.harvest=Récolte
+bewitchment.spore_cloud=Nuage de Spores
+bewitchment.blight=Blight
+bewitchment.ruin=Ruine
+bewitchment.pesticide=Pesticide
+bewitchment.arachnophobia=Arachnophobie
+bewitchment.mending=Raccommodage
+bewitchment.holy_water=Eau Bénite
+bewitchment.wolfsbane=Aconit Tue-Loup
+bewitchment.deviants_decomposure=Décomposition d'un Déviant
+bewitchment.sleeping=Dormir
+bewitchment.volatility=Volatilité
+bewitchment.grace=Grace
+bewitchment.shell_armor=Armure de Carapace
+bewitchment.deflection=Déviation
+bewitchment.revealing=Révéler
+bewitchment.disrobing=Déshabillage
+bewitchment.sinking=Naufrage
+bewitchment.cursed_leaps=Sauts Maudits
+bewitchment.hellfire=Feu de l'Enfer
+bewitchment.fear=Peur
+bewitchment.mortal_coil=Mortal Coil
+bewitchment.corrosion=Corrosion
+bewitchment.bulk=Vrac
+bewitchment.butterfingers=Doigts de beurre
+
+bewitchment.rhino_hide=Peau de Rhinocéros
+bewitchment.paper_skin=Peau de Papier
+bewitchment.rage=Rage
+bewitchment.friendship=Amitié
+
+incense.bewitchment.vitality=Vitalité
+incense.bewitchment.deftness=Habileté
+incense.bewitchment.invigorating=Revigorant
+incense.bewitchment.cats_eye=Oeil du Chat
+incense.bewitchment.fullness=Plénitude
+incense.bewitchment.intensity=Intensité
+incense.bewitchment.concentration=Concentration
+
+curse.bewitchment.return_to_sender=Retour à l'Expéditeur
+curse.bewitchment.misfortune=Malédiction de l'Infortune
+curse.bewitchment.conflagration=Malédiction de la Conflagration
+curse.bewitchment.solar_hatred=Malédiction de la Haine Solaire
+curse.bewitchment.overheating=Malédiction de la Surchauffe
+curse.bewitchment.hydrophobia=Malédiction de l'Hydrophobie
+curse.bewitchment.lightning_rod=Malédiction du Paratonnerre
+curse.bewitchment.darkness=Malédiction des Ténèbres
+curse.bewitchment.palor_pestilence=Malédiction de la Pestilence de Palor
+curse.bewitchment.paranoia=Malédiction de la Paranoïa
+
+#FORTUNE
+fortune.has_fortune=L'avenir de %s a déjà été révélé : %s
+fortune.no_fortune=Ce monde n'a pas de secrets qui t'attendent
+
+fortune.bewitchment.bad_luck=Votre avenir est sombre.
+fortune.bewitchment.good_luck=Votre avenir est très prometteur.
+fortune.bewitchment.illness=La faiblesse et le malheur parsèment votre avenir.
+fortune.bewitchment.vitality=Les blessures guérissent quand vous en avez besoin.
+fortune.bewitchment.meet_pet=Vous rencontrerez bientôt un nouvel ami.
+fortune.bewitchment.meet_merchant=Vous tomberez sur de bonnes affaires.
+fortune.bewitchment.meet_demon=Un puissant duc t'a vu faire du scoutisme et s'est intéressé à toi.
+fortune.bewitchment.meet_feuerwurm=Un démon de moindre importance t'a vu faire des recherches et souhaite te défier bientôt !
+fortune.bewitchment.meet_blaze=Un élémentaire de feu t'a vu apparaître et va bientôt te combattre !
+fortune.bewitchment.meet_dire_wolf=Une bête enragée va bientôt tomber sur vous.
+fortune.bewitchment.meet_silverfish=Une sale vermine se cache dans le chemin.
+fortune.bewitchment.meet_witch=Quelque chose de maléfique arrive par ici.
+fortune.bewitchment.meet_zombie=Ceux qui sont sous terre seront réveillés.
+fortune.bewitchment.death=Le chemin à parcourir est très sombre.
+fortune.bewitchment.drop_item=Les doigts n'obéissent pas quand on en a le plus besoin.
+fortune.bewitchment.treasure=Vous pourriez être très riche, très bientôt.
+fortune.bewitchment.cats_and_dogs=Il va pleuvoir des chats et des chiens.
+fortune.bewitchment.meet_druden=Les taches noires des bois vous observent.
+fortune.bewitchment.meet_shadow_person=Les ombres vous regardent.
+fortune.bewitchment.resilience=La peau devient du fer quand vous en avez besoin.
+fortune.bewitchment.courage=Vous affronterez l'adversité de face.
+fortune.bewitchment.thunderbolt=Un flash lumineux obscurcit ma vision.
+fortune.bewitchment.meet_cambion=Une personne née de la flamme vous rendra visite.
+fortune.bewitchment.meet_cleaver=Un enfant du veau te visitera.
+fortune.bewitchment.meet_bafometyr=Un enfant de l'agneau te visitera.
+fortune.bewitchment.orphan=Vous trouverez bientôt l'un des perdus.
+fortune.bewitchment.salamander_skin=Tu nageras comme une salamandre.
+fortune.bewitchment.hellish_fortune=Dans les flammes, je vois un trésor.
+fortune.bewitchment.cornucopia=Je vois... une abondance de nourriture ?
+#TAROT
+tarot.no_tarot=Vous n'arrivez pas à comprendre ce qu'il y a dans la boule de cristal...
+tarot.is_infused=%s est infusé.
+tarot.not_infused=%s n'a pas de liens avec d'autres mondes.
+tarot.has_pets=%s a des compagnons fidèles.
+tarot.no_pets=%s semble solitaire.
+tarot.good_fortune=%s a la chance d'attendre.
+tarot.bad_fortune=%s est plutôt malchanceux.
+tarot.no_fortune=%s n'a pas de fortune à révéler.
+tarot.is_hunter=%s cherche une fausse justice.
+tarot.not_hunter=%s ne cherche pas à se venger.
+tarot.is_spectre=%s veut passer à autre chose.
+tarot.not_spectre=%s semble mondain comme la normale.
+tarot.is_vampire=%s est apparenté aux chauves-souris et aux papillons de nuit.
+tarot.not_vampire=%s profite d'un pique-nique par une journée ensoleillée.
+tarot.is_wolf=%s est apparenté aux loups.
+tarot.not_wolf=%s dort bien à la pleine lune.
+tarot.is_protected=%s est bien protégé.
+tarot.not_protected=%s a une protection plutôt banale.
+tarot.has_effect=%s a quelque chose qui se prépare...
+tarot.no_effect=%s n'a aucun effet.
+tarot.mobkills=%1$s tué %2$s monstre(s).
+tarot.has_boss=%s a ri face au danger.
+tarot.no_boss=%s n'a pas encore conquis de grandes créatures.
+tarot.bloodshed=%1$s a volé la vie de %2$s individuel(s).
+tarot.is_shrouded=Je ne vois pas la cible...
+
+tarot.demon_pledged=%s a donné son âme en gage à un démon.
+tarot.not_pledged=%s n'a aucune affiliation dans les arts noirs.
+
+tarot.is_cursed=%s a une affliction plutôt sombre.
+tarot.is_not_cursed=%s n'a pas d'affections magiques.
+
+tarot.is_witch=%s marche sur le mauvais chemin.
+tarot.is_hedgewitch=%s croise le chemin des cerfs.
+tarot.is_besmirched=%s danse dans les orgies infernales.
+tarot.is_alchemist=%s cherche le magnum opus.
+
+baphomet.getcontract=Vous avez reçu %s pendant 7 jours.
+baphomet.lowlevel=Votre niveau est trop bas
+baphomet.notpledged=Tu n'es pas lié à Baphomet !
+baphomet.alreadyhascontract=Vous avez déjà un pacte actif
+
+#RITUAL
+ritual.null=Vous n'avez pas entendu parler de tels rites
+ritual.precondition.empty=Il y a un problème
+ritual.precondition.no_day=Ce rituel ne peut pas être fait pendant la journée
+ritual.precondition.no_night=Ce rituel ne peut pas être fait pendant la nuit
+ritual.precondition.no_rain=Ce rituel ne peut pas être fait lorsqu'il pleut
+ritual.precondition.rain=Ce rituel ne peut pas être exécuté tant qu'il ne pleut pas.
+ritual.precondition.drawing=Aucune craie hors-main valide n'a été trouvée, ou aucun espace n'a été trouvé.
+ritual.precondition.sacrifice=Un sacrifice est nécessaire pour commencer ce rituel
+ritual.precondition.invalid_location=Aucun emplacement cible trouvé
+ritual.precondition.wednesday=Ce n'est pas Mercredi, mes amis.
+
+ritual.bewitchment.solar_glory=Rituel de la Gloire Solaire
+ritual.bewitchment.high_moon=Rituel de la Pleine Lune
+ritual.bewitchment.sands_of_time=Rituel des Sables du Temps
+ritual.bewitchment.deluge=Rituel du Déluge
+ritual.bewitchment.teleport=Rite de la Voie Ouverte
+ritual.bewitchment.perception=Rituel de Perception
+ritual.bewitchment.hungry_flames=Rituel des Flammes Affamées
+ritual.bewitchment.frenzied_growth=Rituel de Croissance Frénétique
+ritual.bewitchment.revealing=Rituel de Révélation
+ritual.bewitchment.call_of_the_wild=L'appel de la Nature
+ritual.bewitchment.lesser_hellmouth=Rite de la Petite Bouche de l'Enfer
+ritual.bewitchment.hellmouth=Rite de la Bouche de l'Enfer
+ritual.bewitchment.greater_hellmouth=Rite de la Grande Bouche de l'Enfer
+ritual.bewitchment.conjure_witch=Sorcière Conjurée
+ritual.bewitchment.conjure_wither=Wither Conjurée
+ritual.bewitchment.conjure_demon=Demon Conjurée
+ritual.bewitchment.conjure_imp=Imp Conjurée
+ritual.bewitchment.conjure_leonard=Le Sabbat de Léonard
+ritual.bewitchment.conjure_baphomet=Le Sabbat de Baphomet
+ritual.bewitchment.draw_small=Rituel des Petites Marques
+ritual.bewitchment.draw_medium=Rituel des Marques
+ritual.bewitchment.draw_large=Rituel des Grandes Marques
+ritual.bewitchment.crystal_ball=Rituel de Prévoyance
+ritual.bewitchment.tarot_table=Rituel de la Construction
+ritual.bewitchment.tarot_cards=Rituel de la Gravure
+ritual.bewitchment.grimoire_magia=Rite de la Connaissance
+ritual.bewitchment.purifying_earth=Rite de Purification
+ritual.bewitchment.cypress_broom=Rite des Brindilles Montantes
+ritual.bewitchment.elder_broom=Rite des Brindilles Montantes
+ritual.bewitchment.juniper_broom=Rite des Brindilles Montantes
+ritual.bewitchment.dragons_blood_broom=Rite des Brindilles Montantes
+ritual.bewitchment.wednesday=Rite du Mercredi
+ritual.bewitchment.spiritual_rift=Rite de la Faille Spirituelle
+ritual.bewitchment.lesser_curse_cleansing=Rite de Purification de la Moindre Malédiction
+ritual.bewitchment.greater_curse_cleansing=Rite de Purification de la Malédiction
+ritual.bewitchment.biome_shift=Rite des Saisons Changeantes
+ritual.bewitchment.drought=Rituel des Sables Desséchés
+ritual.bewitchment.sowing_salt=Rite des Terres Maudites
+ritual.bewitchment.natures_blessing=Bénédiction de la Nature
+
+#INFO
+itemGroup.bewitchment=Bewitchment
+
+altar.power_info=%d/%d (x%d)
+altar.no_power=Votre source de magie n'est pas assez forte
+
+tarot.no_cards=Vous devez tenir des cartes de tarot en main pour utiliser ce système
+tarot.no_player=Vous devez lier un joueur au taglock
+tarot.player_offline=%s est hors-ligne
+
+juniper_key.invalid=Vous devez détenir une Clé Juniper valide pour utiliser ce bloc.
+
+skeleton_key.invalid.xp=La Clé Squelette vous épuise au toucher.
+skeleton_key.invalid.me=La Clé Squelette refuse de prendre la bonne forme.
+
+jei.ritual=Rituel
+jei.ritual.startingPower=Puissance de Démarrage: %d
+jei.ritual.runningPower=Puissance de Course: %d
+
+jei.cauldron=Chaudron
+jei.brew=Brassage
+jei.incense=Encens
+
+research.MATSTUDCOLDIRON.title=Études des Matériaux : Le Fer Froid
+research.MATSTUDCOLDIRON.stage.1=Comme le fer est banal, le fer froid est assez robuste mais lourd. <RB> Cependant, contrairement au fer ordinaire, le fer froid possède plusieurs propriétés arcaniques, notamment pour éloigner les démons et les esprits.
+research.f_MATSTUDCOLDIRON.text=Examinez des Blocs de Fer Froid.
+golem.material.coldiron=Fer Froid
+golem.material.text.coldiron=Le golem est fabriqué à partir de fer froid. Bien qu'il partage de nombreuses caractéristiques identiques au fer, il offre une force supplémentaire contre les démons et les esprits.
+
+research.MATSTUDSILVER.title=Études des Matériaux : Argent
+research.MATSTUDSILVER.stage.1=L'argent, étant un métal précieux, a été recherché pour le commerce. Cependant, l'argent est très doux et malléable, bien que pas aussi malléable que l'or. <BR>Les morts-vivants semblent être repoussés par l'argent, tout comme certaines autres créatures de la nuit, cependant.
+research.f_MATSTUDSILVER.text=Examinez des Blocs d'Argent.
+golem.material.silver=Argent
+golem.material.text.silver=Le golem est fait d'argent. Ce métal doux et malléable est également efficace contre les morts-vivants.
+
+research.MATSTUDDRAGONSBLOOD.title=Études des Matériaux : Résine de Sang de Dragon
+research.MATSTUDDRAGONSBLOOD.stage.1=La résine de l'arbre de Sang de Dragon a plusieurs propriétés intéressantes, notamment sa structure qui ressemble beaucoup à celle de la chair humaine. <BR>Bien qu'elle ne soit pas idéalement adaptée comme matériau pour les golems, travailler avec elle peut être il y aura une expérience intéressante, bien que macabre.
+research.f_MATDRAGONSBLOOD.text=Examiner la Résine de Sang de Dragon
+##OLD TEXT: The resin from a Dragon's Blood Tree was of particular interest to you, in hopes of making a golem aligned with the occult. <BR>However, what you created was a messy golem that falls apart rather easily. It also somewhat resembles human flesh, and it repulses you as a result. <BR>You are confident you will find a better material to fit this role.
+
+golem.material.dragonsblood=Résine de Sang de Dragon
+golem.material.text.dragonsblood=Le golem est fabriqué à partir de Résine de Sang de Dragon. C'est... un désastre.
+
+golem.trait.spiritual_ward=Ward Spirituel
+golem.trait.text.spiritual_ward=Le golem est particulièrement fort contre les démons et les esprits.
+
+golem.trait.blessed=Béni
+golem.trait.text.blessed=Le golem est particulièrement fort contre les morts-vivants.
+
+golem.trait.uncanny=Étonnant
+golem.trait.text.uncanny=Ce golem a une étrange ressemblance avec la chair humaine. Même les autres monstres sont légèrement repoussés.
+
+ritual.cannot_start=Vous ne sentez pas que quelque chose se passe...

@@ -1,0 +1,60 @@
+itemGroup.armorunder=Armor Underwear
+
+item.auw_mod_icon.name=Icon
+
+item.auw_antifreeze_boots_liner.name=Otto en Bottes Liner
+tooltip_summ.item.auw_antifreeze_boots_liner=Objet de butin. Combinez avec des bottes sur une grille d'artisanat pour ajouter une barrière de gel de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+item.auw_antifreeze_chestplate_liner.name=Otto en Plastron Liner
+tooltip_summ.item.auw_antifreeze_chestplate_liner=Objet de butin. Combinez avec le plastron sur une grille d'artisanat pour ajouter un refroidissement et une barrière contre le gel de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+item.auw_antifreeze_helmet_liner.name=Otto en Casque Liner
+tooltip_summ.item.auw_antifreeze_helmet_liner=Objet de butin. Combinez avec un casque sur une grille d'artisanat pour ajouter une barrière de gel de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+item.auw_antifreeze_leggings_liner.name=Otto en Jambière Liner
+tooltip_summ.item.auw_antifreeze_leggings_liner=Objet de butin. Combinez avec des jambières sur une grille d'artisanat pour ajouter un refroidissement et une barrière contre le gel de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+
+item.auw_auto_boots_liner.name=Ozzy en Bottes Liner
+item.auw_auto_chestplate_liner.name=Ozzy en Plastron Liner
+tooltip_summ.item.auw_auto_chestplate_liner=Combiné avec le plastron sur une grille d'artisanat pour ajouter une doublure de température auto-ajustable. Installation unique. Vous n'avez besoin que d'une seule doublure ozzy par ensemble d'armures !
+item.auw_auto_helmet_liner.name=Ozzy en Casque Liner
+item.auw_auto_leggings_liner.name=Ozzy en Jambière Liner
+tooltip_summ.item.auw_auto_leggings_liner=Combinez avec des jambières sur une grille d'artisanat pour ajouter une doublure à température auto-ajustable. Installation unique. Vous n'avez besoin que d'une seule doublure ozzy par ensemble d'armures !
+
+item.auw_barrier_boots_liner.name=Ollie Bottes Liner
+tooltip_summ.item.auw_barrier_boots_liner=Combinez avec des bottes sur une grille d'artisanat pour ajouter une barrière contre les brûlures de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+item.auw_barrier_chestplate_liner.name=Ollie Plastron Liner
+tooltip_summ.item.auw_barrier_chestplate_liner=Combinez avec le plastron sur une grille d'artisanat pour ajouter une barrière contre les brûlures de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+item.auw_barrier_helmet_liner.name=Ollie Casque Liner
+tooltip_summ.item.auw_barrier_helmet_liner=Combinez avec un casque sur une grille d'artisanat pour ajouter une barrière anti-brûlure de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+item.auw_barrier_leggings_liner.name=Ollie Jambière Liner
+tooltip_summ.item.auw_barrier_leggings_liner=Combinez avec des jambières sur une grille d'artisanat pour ajouter une barrière anti-brûlure de 25%. Installation unique. Équipez toutes les pièces de votre armure pour une couverture à 100% !
+
+item.auw_cool_boots_liner.name=Bottes en Cool Liner
+item.auw_cool_chestplate_liner.name=Plastron en Cool Liner
+item.auw_cool_helmet_liner.name=Casque en Cool Liner
+item.auw_cool_leggings_liner.name=Jambière en Cool Liner
+item.auw_cool_liner_material.name=Matériau de la Chemise de Refroidissement
+item.auw_cooling_goo.name=Goo de Refroidissement
+item.auw_diamond_strong_thread.name=Diamond-Strong Thread
+item.auw_flipflop_goo.name=Flip Flop Goo
+item.auw_flipflop_liner_material.name=Matériau de la Doublure Ozzy
+item.auw_goopak_cool.name=Goopak de Refroidissement
+tooltip_summ.item.auw_goopak_cool=Cliquez avec le bouton droit de la souris et maintenez-le enfoncé pour activer. Maintenir sur la barre d'outils pour un refroidissement supplémentaire (-2) pendant le temps indiqué dans l'infobulle. Usage unique.
+item.auw_goopak_heat.name=Goopak de Chaleur
+tooltip_summ.item.auw_goopak_heat=Cliquez avec le bouton droit de la souris et maintenez-le enfoncé pour activer. Gardez sur la barre d'outils pour un réchauffement supplémentaire (+2) pendant le temps indiqué dans l'infobulle. Usage unique.
+item.auw_goopak_spent.name=Goopak usagé
+tooltip_summ.item.auw_goopak_spent=Jette ça...
+item.auw_heating_goo.name=Goo de Chauffage
+item.auw_liner_snips.name=Liner Snips
+tooltip_summ.item.auw_liner_snips=Combinez avec une armure doublée sur une grille d'artisanat pour enlever une couche de doublure. Laisse une doublure réutilisable sur la grille.
+item.auw_obsidian_goo.name=Obsidian Goo
+item.auw_obsidian_wrap_material.name=Obsidian-Wrap Material
+item.auw_warm_boots_liner.name=Bottes en Warm Liner
+item.auw_warm_chestplate_liner.name=Plastron en Warm Liner
+item.auw_warm_helmet_liner.name=Casque en Warm Liner
+item.auw_warm_leggings_liner.name=Jambière en Warm Liner
+item.auw_warm_liner_material.name=Matériau de la Doublure Chauffante
+
+tooltip.auw.xlining.ozzy=Doublure ajuste la température> %1$s
+tooltip.auw.xlining.ozzy.warmer=Extra CHAUFFAGE 
+tooltip.auw.xlining.ozzy.cooler=Extra REFROIDISSEMENT
+tooltip.auw.xlining.ollie=Doublure Obsidian-Wrap
+tooltip.auw.xlining.otto=Doublure antigel
