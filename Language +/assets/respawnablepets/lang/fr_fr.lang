@@ -1,0 +1,8 @@
+item.respawnablepets.etheric_gem.name=Gemme éthérique
+
+respawnablepets.tooltip=Permet d'activer la réapparition d'un animal en le frappant
+
+respawnablepets.enable_respawn=%s va maintenant respawn en cas de mort
+respawnablepets.disable_respawn=%s ne respawn plus en cas de mort
+respawnablepets.not_owner=%s ne vous appartient pas
+respawnablepets.blacklisted=%s est une entité figurant sur la liste noire

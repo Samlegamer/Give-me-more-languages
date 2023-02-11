@@ -1,0 +1,4 @@
+potionfingers.noEffect=(Pas d'effet)
+
+item.potionfingers:ring_disabled.name=Anneau de Potion
+item.potionfingers:ring_enabled.name=Anneau de Potion de %s

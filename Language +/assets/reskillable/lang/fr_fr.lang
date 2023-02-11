@@ -1,0 +1,142 @@
+# MISC
+reskillable.misc.capped=MAX
+reskillable.misc.skills=Compétences
+reskillable.misc.requirements=Conditions Requises:
+reskillable.misc.requirements_shift=Maintenir SHIFT pour les conditions requises
+reskillable.misc.skill_points=%d Points de Compétences
+reskillable.misc.shift=Maintenir SHIFT pour la description
+reskillable.misc.unlocked=Déverrouillé !
+
+reskillable.misc.locked.item=Vous ne remplissez pas les conditions requises pour utiliser cet objet.
+reskillable.misc.locked.block_break=Vous ne remplissez pas les conditions requises pour casser ce bloc.
+reskillable.misc.locked.block_use=Vous ne remplissez pas les conditions requises pour utiliser ce bloc
+reskillable.misc.locked.armor_equip=Vous ne remplissez pas les conditions pour porter cette armure.
+
+# FORMATS
+reskillable.requirements.format.skill=%s%s: %s%d
+reskillable.requirements.format.advancement=Advancement: %s%s
+reskillable.requirements.format.trait=Trait: %s%s
+reskillable.requirements.format.unobtainable=Unobtainable
+reskillable.requirements.format.and=AND
+reskillable.requirements.format.nand=NAND
+reskillable.requirements.format.or=OR
+reskillable.requirements.format.nor=NOR
+reskillable.requirements.format.xor=XOR
+reskillable.requirements.format.xnor=XNOR
+
+# SKILL NAMES
+reskillable.skill.reskillable.mining=Minage
+reskillable.skill.reskillable.gathering=Collecter
+reskillable.skill.reskillable.attack=Attaque
+reskillable.skill.reskillable.defense=Défense
+reskillable.skill.reskillable.building=Construct
+reskillable.skill.reskillable.farming=Farmeur
+reskillable.skill.reskillable.agility=Agilité
+reskillable.skill.reskillable.magic=Magie
+
+# UNLOCKABLE NAMES
+reskillable.unlock.reskillable.obsidian_smasher=Briseur d'Obsidienne
+reskillable.unlock.reskillable.obsidian_smasher.desc=Augmente considérablement la vitesse d'extraction de l'obsidienne à l'aide d'une pioche en diamant.
+reskillable.unlock.reskillable.fossil_digger=Creuseur de Fossiles
+reskillable.unlock.reskillable.fossil_digger.desc=Ajoute une petite chance d'extraire deux charbons par minerai au lieu d'un lors de l'extraction avec une pioche en fer ou plus (sans toucher de soie).
+reskillable.unlock.reskillable.ore_cascade=Cascade de minerai
+reskillable.unlock.reskillable.ore_cascade.desc=Capacité basculée : L'extraction d'un bloc de minerai entraînera l'extraction de toute la veine à la place. La pioche subit des dégâts de durabilité doublés.
+reskillable.unlock.reskillable.lucky_fisherman=Pêcheur Chanceux
+reskillable.unlock.reskillable.lucky_fisherman.desc=Augmentation de la chance lors de la pêche
+reskillable.unlock.reskillable.drop_guarantee=Garantie de Butin de Chute
+reskillable.unlock.reskillable.drop_guarantee.desc=Les monstres ennemis laissent toujours tomber au moins un objet (le cas échéant).
+reskillable.unlock.reskillable.neutralissse=DefuSSse
+reskillable.unlock.reskillable.neutralissse.desc=Frapper un Creeper juste après qu'il ait commencé à s'enflammer le neutralisera pendant quelques secondes.
+reskillable.unlock.reskillable.undershirt=Undershirt
+reskillable.unlock.reskillable.undershirt.desc=Toutes les 10 secondes, recevoir un coup fatal lorsque votre santé est supérieure à 3 cœurs vous réduira d'un demi-cœur au lieu de vous tuer.
+reskillable.unlock.reskillable.transmutation=Transmutation
+reskillable.unlock.reskillable.transmutation.desc=Déverrouille la possibilité d'utiliser le fruit Chorus comme agent de transmutation des blocs, ce qui permet de transformer certains blocs en d'autres.
+reskillable.unlock.reskillable.perfect_recover=Récupération parfaite
+reskillable.unlock.reskillable.perfect_recover.desc=Les blocs qui perdent leurs composants, comme la pierre lumineuse, en perdront toujours suffisamment pour les reconstruire.
+reskillable.unlock.reskillable.more_wheat=Blé en abondance
+reskillable.unlock.reskillable.more_wheat.desc=Ajoute une petite chance de récolter un deuxième morceau de blé lors de la récolte de cultures de blé à pleine maturité.
+reskillable.unlock.reskillable.green_thumb=La main verte
+reskillable.unlock.reskillable.green_thumb.desc=Les plantes autour des joueurs ayant cette capacité pousseront plus vite.
+reskillable.unlock.reskillable.hungry_farmer=Fermier affamé
+reskillable.unlock.reskillable.hungry_farmer.desc=Faire de l'alimentation une tâche passive. (Auto-alimentation)
+reskillable.unlock.reskillable.roadwalk=Trottoir routier
+reskillable.unlock.reskillable.roadwalk.desc=Augmente votre vitesse de déplacement lorsque vous êtes sur un chemin d'herbe.
+reskillable.unlock.reskillable.golden_osmosis=Osmose Dorée
+reskillable.unlock.reskillable.golden_osmosis.desc=Les outils en or, lorsqu'ils sont tenus ou portés, extraient de l'XP de l'utilisateur pour se réparer à un rythme rapide.
+reskillable.unlock.reskillable.sidestep=Sidestep
+reskillable.unlock.reskillable.sidestep.desc=En appuyant deux fois sur les touches "Strafe Left" ou "Strafe Right" tout en reculant et en maintenant la touche de sprint, vous ferez un pas de côté dans cette direction, avec un petit temps de récupération.
+reskillable.unlock.reskillable.safe_port=Téléportation sûr
+reskillable.unlock.reskillable.safe_port.desc=Se téléporter avec une Perle de l'Ender ne vous fera plus mal.
+reskillable.unlock.reskillable.battle_spirit=Esprit de combat
+reskillable.unlock.reskillable.battle_spirit.desc=Tuer un monstre vous donnera une courte amélioration de votre force.
+reskillable.unlock.reskillable.effect_twist=Effet Twist
+reskillable.unlock.reskillable.effect_twist.desc=Le fait d'être frappé par un monstre alors que les effets de la potion sont bons a une chance de propager la mauvaise version de ces effets à l'attaquant.
+reskillable.unlock.reskillable.hillwalker=Marcheur de la colline
+reskillable.unlock.reskillable.hillwalker.desc=Après un long voyage et une ascension abrupte, vous avez atteint un état de marche perpétuelle pour toute occasion. Vous avez maintenant l'assistance au pas !
+
+# RANK NAMES
+reskillable.rank.0=Novice
+reskillable.rank.1=Débutant
+reskillable.rank.2=Apprentie
+reskillable.rank.3=Compagnon
+reskillable.rank.4=Adepte
+reskillable.rank.5=Qualifié
+reskillable.rank.6=Expert
+reskillable.rank.7=Maître
+reskillable.rank.8=Ascendant
+
+# TAB NAMES
+reskillable.tab.inventory=Inventaire
+reskillable.tab.skills=Compétences
+reskillable.tab.abilities=Abilitées
+
+# KEY-BINDINGS
+key.controls.reskillable=Reskillable
+key.open_gui=Ouvrir l'interface des Compétences
+
+# TOAST MESSAGES
+reskillable.toast.skill_desc=Niveau atteint : %s
+reskillable.toast.unlockable_desc=Déverrouillé !
+
+# COMMANDS
+reskillable.command.usage=/reskillable subcommand
+reskillable.command.resetskill.usage=/reskillable resetskill <player> <skill>
+reskillable.command.setskilllevel.usage=/reskillable setskilllevel <player> <skill> <level>
+reskillable.command.incrementskill.usage=/reskillable incrementskill <player> <skill> <optional_level>
+reskillable.command.resetall.usage=/reskillable resetall <player>
+reskillable.command.toggletrait.usage=/reskillable toggletrait <player> <trait>
+
+reskillable.command.success.unlocktrait=Successfully unlocked '%s' for player '%s'.
+reskillable.command.success.locktrait=Successfully locked '%s' for player '%s'.
+reskillable.command.success.resetskill=Successfully reset Skill: '%s' for player '%s'.
+reskillable.command.success.setskilllevel=Successfully set the level of Skill: '%s' to '%s' for player '%s'.
+reskillable.command.success.skillup=Successfully leveled up Skill: '%s' for player '%s'.
+reskillable.command.success.resetall=Successfully reset all skills for player '%s'.
+
+reskillable.command.fail.unlocktrait=Failed to unlock '%s' for player '%s'.
+reskillable.command.fail.locktrait=Failed to lock '%s' for player '%s'.
+reskillable.command.fail.resetskill=Failed to reset Skill: '%s' for player '%s'.
+reskillable.command.fail.setskilllevel=Failed to set the level of Skill: '%s' to '%s' for player '%s'.
+reskillable.command.fail.skillup=Failed to level up Skill: '%s' for player '%s'.
+reskillable.command.fail.resetall=Failed to reset skills '%s' for player '%s'.
+
+reskillable.command.invalid.skill=Skill '%s' is invalid.
+reskillable.command.invalid.trait=Trait '%s' is invalid.
+reskillable.command.invalid.pastcap=Level '%s' is past the cap of '%s' for that skill.
+reskillable.command.invalid.belowmin=Level '%s' is below the minimum level of '1'.
+
+reskillable.command.invalid.missing.skill=You must enter the name of a skill.
+reskillable.command.invalid.missing.trait=You must enter the name of a trait.
+reskillable.command.invalid.missing.player=You must enter the name of a player.
+reskillable.command.invalid.missing.level=You must enter a level to set the skill to.
+reskillable.command.invalid.missing.playerskill=You must enter the name of both a player and a skill.
+reskillable.command.invalid.missing.playertrait=You must enter the name of both a player and a trait.
+reskillable.command.invalid.missing.playerskilllevel=You must enter the name of both a player and a skill, and a level for the skill.
+reskillable.command.invalid.missing.skilllevel=You must enter the name of a skill, and a level for the skill.
+
+# ADVANCMENTS
+reskillable.advancement.first_level.title=First Level Up!
+reskillable.advancement.first_level.desc=You've Leveled your First Skill
+
+reskillable.advancement.attack_5.title=Attack!
+reskillable.advancement.attack_5.desc=You've Leveled Attack to 5

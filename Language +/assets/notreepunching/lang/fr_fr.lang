@@ -1,0 +1,92 @@
+# Items
+
+item.notreepunching:grass_fiber.name=Fibre végétal
+item.notreepunching:grass_string.name=Ficelle végétal
+item.notreepunching:flint_shard.name=Éclat de silex
+item.notreepunching:clay_brick.name=Brique d'argile
+
+item.notreepunching:rock.stone.name=Roche
+item.notreepunching:rock.andesite.name=Roche d'andésite
+item.notreepunching:rock.diorite.name=Roche de diorite
+item.notreepunching:rock.granite.name=Roche de granite
+item.notreepunching:rock.sandstone.name=Roche de grès
+item.notreepunching:rock.red_sandstone.name=Roche de grès rouge
+item.notreepunching:rock.marble.name=Roche de marbre
+item.notreepunching:rock.limestone.name=Roche de limestone
+item.notreepunching:rock.slate.name=Roche de slate
+
+item.notreepunching:clay_tool.name=Outil d'argile
+item.notreepunching:fire_starter.name=Allume feu
+item.notreepunching:ceramic_small_vessel.name=Vase en ceramique petit
+item.notreepunching:ceramic_bucket.name=Seau en ceramique
+item.notreepunching:ceramic_bucket.filled.name=Seau en ceramique (%s)
+
+item.notreepunching:axe.flint.name=Hachette en silex
+item.notreepunching:shovel.flint.name=Pelle en silex
+item.notreepunching:hoe.flint.name=Houe en silex
+item.notreepunching:pickaxe.flint.name=Pioche en silex
+item.notreepunching:knife.flint.name=Couteau en silex
+
+item.notreepunching:knife.iron.name=Couteau en fer
+item.notreepunching:knife.gold.name=Couteau en or
+item.notreepunching:knife.diamond.name=Couteau en diamant
+item.notreepunching:knife.copper.name=Couteau en cuivre
+item.notreepunching:knife.tin.name=Couteau en étain
+item.notreepunching:knife.bronze.name=Couteau en bronze
+item.notreepunching:knife.steel.name=Couteau en acier
+
+item.notreepunching:saw.iron.name=Scie en fer
+item.notreepunching:saw.gold.name=Scie en or
+item.notreepunching:saw.diamond.name=Scie en diamant
+item.notreepunching:saw.copper.name=Scie en cuivre
+item.notreepunching:saw.tin.name=Scie en étain
+item.notreepunching:saw.bronze.name=Scie en bronze
+item.notreepunching:saw.steel.name=Scie en acier
+
+item.notreepunching:mattock.iron.name=Mattock en fer
+item.notreepunching:mattock.gold.name=Mattock en or
+item.notreepunching:mattock.diamond.name=Mattock en diamant
+item.notreepunching:mattock.copper.name=Mattock en cuivre
+item.notreepunching:mattock.tin.name=Mattock en étain
+item.notreepunching:mattock.bronze.name=Mattock en bronze
+item.notreepunching:mattock.steel.name=Mattock en acier
+
+# Blocks
+
+tile.notreepunching:cobblestone.andesite.name=Pierre d'andésite
+tile.notreepunching:cobblestone.diorite.name=Pierre de diorite
+tile.notreepunching:cobblestone.granite.name=Pierre de granite
+tile.notreepunching:cobblestone.sandstone.name=Pierre de grès
+tile.notreepunching:cobblestone.marble.name=Pierre de marbre
+tile.notreepunching:cobblestone.limestone.name=Pierre de limestone
+tile.notreepunching:cobblestone.slate.name=Pierre de slate
+
+tile.notreepunching:pottery.worked.name=Argile travaillé
+tile.notreepunching:pottery.large_vessel.name=Vase en céramique large
+tile.notreepunching:pottery.small_vessel.name=Petit vase en céramique
+tile.notreepunching:pottery.bucket.name=Seau en argile
+tile.notreepunching:pottery.flower_pot.name=Pot de fleur en argile
+
+tile.notreepunching:ceramic_large_vessel.name=Grand vase en céramique
+tile.notreepunching:fire_pit.name=Puits de feu
+
+# JEI
+
+jei.category.knife_recipe=Coupe de couteau
+jei.category.firepit_recipe=Cheminée
+
+jei.description.rock=Des roches en vrac se trouvent sur le sol. Cassez-les ou faites un clic droit pour les ramasser.
+jei.description.grass_fiber=Les fibres végétal tombent en cassant les herbes hautes avec un couteau.
+jei.description.stick=Des bâtons tombent de temps en temps des feuilles. L'utilisation d'un couteau augmente les chances d'obtenir des bâtons.
+jei.description.flint_shard=Les éclats de silex sont obtenus en cassant (avec un clic droit) un morceau de silex sur une surface rocheuse. Il a une chance de se séparer en deux éclats de silex.
+jei.description.knife=Les couteaux peuvent être utilisés pour couper des matériaux. Tenez le couteau dans une main et l'objet dans l'autre. Faites un clic droit pour couper le matériau dans votre autre main.
+jei.description.mattock=Les mattocks sont des outils polyvalents : Une hache, une pelle et une houe tout en un !
+jei.description.saw=Les scies sont utilisées pour couper le bois en planches. Elles peuvent également être utilisées comme haches.
+jei.description.clay_tool=L'outil d'argile est utilisé pour faire de la poterie. Avec l'outil argile, faites un clic droit sur un morceau d'argile pour en modifier la forme.
+
+# Misc
+
+itemGroup.notreepunching.items=Items de NTP
+itemGroup.notreepunching.tools=Outils de NTP
+
+notreepunching.subtitle.knapping.name=Tapotement sur la roche

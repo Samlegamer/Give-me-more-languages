@@ -1,0 +1,11 @@
+item.toolbelt.belt.name=Ceinture à Outils
+item.toolbelt.pouch.name=Petit Sac de Ceinture
+key.toolbelt.open=Échanger d'Outil
+key.toolbelt.category=Ceinture à Outils
+key.toolbelt.slot=Ouvrir l'Inventaire de la Ceinture à Outils
+text.toolbelt.empty=VIDE
+text.toolbelt.swap=Échange
+text.toolbelt.insert=INSÉRER
+text.toolbelt.extract=RETIRER
+text.toolbelt.tooltip=Niveau: %s (%s places)
+text.toolbelt.name=Ceinture à Outils

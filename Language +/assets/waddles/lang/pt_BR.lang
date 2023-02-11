@@ -1,0 +1,12 @@
+#Entity
+entity.waddles:adelie_penguin.name=Pinguim
+
+#Subtitles
+waddles:subtitles.adelie.ambient=Grasnido de Pinguins
+waddles:subtitles.adelie.baby.ambient=Grasnido de Filhotes de Pinguins
+waddles:subtitles.adelie.death=Puguim Morrendo
+waddles:subtitles.adelie.hurt=Pinguim se Machucando
+
+#Tooltip
+waddles:config.category.general.tooltip=Opções gerais de configurações do mod Waddles
+waddles:config.category.spawnchances.tooltip=Chance de Spawn de Pinguins Configurável

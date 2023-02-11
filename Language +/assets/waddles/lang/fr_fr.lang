@@ -1,0 +1,8 @@
+#Entity
+entity.waddles:adelie_penguin.name=Pingouin
+
+#Subtitles
+waddles:subtitles.adelie.ambient=Cris de Pingouin
+waddles:subtitles.adelie.baby.ambient=Bébé Pingouin couine
+waddles:subtitles.adelie.death=Le Pingouin meurt
+waddles:subtitles.adelie.hurt=Le Pingouin se blesse
