@@ -1,0 +1,37 @@
+#Enchantment Tooltip
+tooltip.enchdesc.name=Enchantement
+tooltip.enchdesc.addedby=Ajouté par
+tooltip.enchdesc.missing=Aucune description n'a été trouvée. Veuillez demander à l'auteur de %s d'en ajouter une. La clé de localisation est %s
+tooltip.enchdesc.activate=Appuyez sur %s%s%s pour la description des enchantements.
+
+#Vanilla Enchantment Descriptions
+enchantment.minecraft.protection.desc=Réduit les dégâts de la plupart des sources. 
+enchantment.minecraft.fire_protection.desc=Réduit les dégâts du feu. Réduit également le temps de combustion en cas d'incendie.
+enchantment.minecraft.feather_falling.desc=Réduit les dégâts de chute et les dégâts de téléportation de la perle l'ender.
+enchantment.minecraft.blast_protection.desc=Réduit les dégâts des explosions et le knockback des explosions.
+enchantment.minecraft.projectile_protection.desc=Réduit les dégâts des projectiles tels que les flèches et les boules de feu.
+enchantment.minecraft.respiration.desc=Prolonge le temps que le joueur peut passer sous l'eau. Améliore également la vision lorsqu'il est sous l'eau.
+enchantment.minecraft.aqua_affinity.desc=Augmente la vitesse de minage sous l'eau.
+enchantment.minecraft.thorns.desc=Inflige des dégâts aux ennemis lorsqu'ils vous attaquent.
+enchantment.minecraft.sharpness.desc=Augmente les dégâts de l'objet.
+enchantment.minecraft.smite.desc=Augmente les dégâts contre les monstres morts-vivants tels que les zombies et les squelettes.
+enchantment.minecraft.bane_of_arthropods.desc=Augmente les dégâts contre les arthropodes tels que les araignées et les poissons d'argent.
+enchantment.minecraft.knockback.desc=Augmente la force du knockback de l'arme.
+enchantment.minecraft.fire_aspect.desc=Provoque des dégâts de feu supplémentaires lorsqu'il est utilisé pour attaquer un mob.
+enchantment.minecraft.looting.desc=Les monstres laissent plus de butin lorsqu'ils sont tués.
+enchantment.minecraft.efficiency.desc=Augmente la vitesse de minage de l'outil.
+enchantment.minecraft.silk_touch.desc=Permet de collecter les blocs fragiles tels que le verre.
+enchantment.minecraft.unbreaking.desc=Permet à l'outil de perdre sa durabilité à un rythme plus lent.
+enchantment.minecraft.fortune.desc=Certains blocs comme le charbon et le minerai de diamant peuvent laisser tomber des objets supplémentaires.
+enchantment.minecraft.power.desc=Augmente les dégâts des flèches tirées par l'arc.
+enchantment.minecraft.punch.desc=Augmente la force de l'effet de choc des flèches tirées par l'arc.
+enchantment.minecraft.flame.desc=Les flèches tirées par l'arc infligent des dégâts de feu supplémentaires. 
+enchantment.minecraft.infinity.desc=Permet à l'arc de tirer des flèches normales gratuitement. Vous devez avoir au moins une flèche pour que cela fonctionne.
+enchantment.minecraft.luck_of_the_sea.desc=Augmente les chances d'obtenir un bon butin pendant la pêche.
+enchantment.minecraft.lure.desc=Diminue le temps qu'il faut à un poisson pour mordre à l'hameçon.
+enchantment.minecraft.depth_strider.desc=Augmente la vitesse de déplacement sous l'eau.
+enchantment.minecraft.frost_walker.desc=Gèle l'eau sur laquelle le joueur se trouve.
+enchantment.minecraft.mending.desc=Répare la durabilité des armures et des outils avec de l'EXP.
+enchantment.minecraft.binding_curse.desc=Empêche l'objet enchanté d'être retiré d'un emplacement d'armure.
+enchantment.minecraft.vanishing_curse.desc=Détruit l'objet enchanté si vous mourez en l'ayant dans votre inventaire.
+enchantment.minecraft.sweeping.desc=Augmente les dégâts des attaques de balayage.

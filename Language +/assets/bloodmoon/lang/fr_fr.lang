@@ -1,0 +1,6 @@
+text.bloodmoon.notify=La Lune de Sang arrive...
+text.bloodmoon.nosleep=Vous ne vous sentez pas assez fatigué pour vous endormir...
+text.bloodmoon.force=Il y aura une Lune de Sang la nuit prochaine
+text.bloodmoon.stop=Arrêter la Bloodmoon
+text.bloodmoon.commandError=Bloodmoon Handler not loaded, try to execute this from the overworld.
+text.bloodmoon.entity=Des monstres dans un rayon de 20 blocs :
